@@ -1,0 +1,3203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Search><pages Count="78"><page Index="1"/><page Index="2"><![CDATA[INDICE
+
+
+
+
+
+                                                                CAPITULO 2: MANEJO DEL PROGRAMA
+
+
+                 2.1. ACTIVACION DE PROBUILDER Y                                                             2.2. ACOMODANDO LAS PESTAÑAS EN
+
+                 CREACION DE OBJETOS                                                                        LA INTERFAZ
+
+
+                 2.3. EXPORTAR MODELOS DESDE                                                                2.4. IMPORTAR PAQUETE DE ASSETS
+                 SKETCH UP
+
+
+                 2.5. AÑADIR OBJETO A LA ESCENA                                                              2.6. MODIFICAR LAYOUT
+
+
+
+                 2.7. COPIAR OBJETOS                                                                         2.8. SITUAR PERSONAJE EN LA ESCENA
+
+
+
+                 2.9. ARRAYS                                                                                  2.10. ACCESO A ARRAYS
+
+
+
+                  2.11. REPETIR FONDO                                                                        2.12. REPETIR FONDO CON PRESICION
+
+
+
+
+                 2.13. AÑADIR O MOSTRAR TEXTO                                                                 2.14. COLOCADO Y PROGRAMACIÓN
+                                                                                                              DE BOTONES
+
+
+                 2.15. PANTALLA DE INICIO                                                                     2.16.   GUARDAR     PROYECTO    y
+                                                                                                              RENDERIZADO]]></page><page Index="3"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+
+                                                                   DE INGENIERIA DE METODO
+
+                                                         CAPITULO 2: MANEJO DEL PROGRAMA
+
+
+
+                                   2.1. ACTIVACION DE PROBUILDER Y CREACION DE OBJETOS
+
+
+                                                Activación de Probuilder
+
+                                                   1. Abrir el programa Unity Hub.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   1.
+                   2.                                        2. Presionar el botón “NEW” para crear un nuevo proyecto.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    1]]></page><page Index="4"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODO
+
+                   1.        3.  Seleccionar el formato 3D, poner nombre al proyecto y presionar
+                                 el botón “CREATE”.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               4. Para instalar Probuilder, seleccionar “Window” y después
+
+                                  “Package Manage”.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                              2]]></page><page Index="5"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                                   DE INGENIERIA DE METODO
+
+
+                   1.                                5. Aparece la siguiente ventana y en el buscador
+
+                   2.                                    escribimos “Probuilder”.
+                   3.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  3]]></page><page Index="6"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                                   DE INGENIERIA DE METODO
+
+
+
+
+
+
+                              6. Una vez que hayamos
+
+                              encontrado Probuilder
+                              hacemos Click en “Install”
+
+                              en la parte de abajo a la
+
+                              derecha, y esperamos.
+
+
+
+
+
+                                ⮚  Creación de objetos.
+                                            1. Para la creación de un objeto seleccionamos “Tools”, después
+                                                 en “Probuilder” y “Probuilder Window”.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                            4]]></page><page Index="7"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL
+
+                                                      APRENDIZAJE DE INGENIERIA DE METODO
+
+                   1.
+
+
+
+
+
+
+
+
+
+                                         Nos aparecerá la siguiente ventana
+
+                                        en la cual si seleccionamos en
+
+
+                                         “New Shape” en el signo “+”, nos
+
+                                        dará la opción de crear un cubo,
+                                        esfera, cilindro, escaleras, etc.
+
+
+
+
+
+
+
+                   1.
+
+
+                                Una vez seleccionando el
+
+                               objeto que queremos, en la
+
+                               ventana se  mostrarán
+                               características podemos
+
+                               modificar a nuestro gusto, por
+
+                               ejemplo: altura, grosor,
+                               rotación, tamaño.
+
+
+
+
+                 5]]></page><page Index="8"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL
+
+                                                             APRENDIZAJE DE INGENIERIA DE METODO
+
+                                    4. Con la barra de herramientas que está arriba hacia la izquierda
+                                    podemos manejar las funciones de: desplazar la pantalla, mover
+
+                                    objeto (en cualquiera de los ejes X, Y, Z), rotar objeto, escala de
+
+
+                                        una cara del objeto. Respectivamente a como se muestra en la
+                                        siguiente imagen de la barra de herramientas.
+
+
+
+
+
+
+
+
+
+
+
+
+                                     5. Una vez que hayamos seleccionado el objeto que queremos
+                                        (en este caso un cubo) nos aparecerá la ventana de modificaciones
+
+                                         cómo se mencionó anteriormente, en este caso se puede modificar
+                                         el tamaño del cubo en los ejes X, Y, Z.
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                             6]]></page><page Index="9"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL
+
+                                                             APRENDIZAJE  DE INGENIERIA DE METODO
+
+
+
+                   1.                                   6. Para establecer el objeto hacemos click en botón “Build” que se
+                   2.                           encuentra en la parte de debajo de esta misma ventana.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 7]]></page><page Index="10"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL
+
+                             APRENDIZAJE DE INGENIERIA DE METODO
+
+
+
+                              7. Con el objeto establecido podemos usar la barra de herramientas
+
+                                  que se encuentra arriba. Estas herramientas nos dan la opción de
+
+                                  deformar el objeto a nuestro gusto.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                             8]]></page><page Index="11"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS
+
+                                              PARA EL APRENDIZAJE DE INGENIERIA DE METODOS
+
+                                1.     La primera herramienta nos
+                                       permite seleccionar un objeto.
+
+                                2.     La segunda nos permite
+                                       seleccionar un vértice.
+
+                                3.     La tercera nos permite
+                                       seleccionar una arista del
+                                       objeto.
+
+                                4.     Con la última podemos
+                                       seleccionar una cara del
+                                       objeto.
+
+                                5.     Con esta función y
+                                       presionando Shift + mouse
+                                       podemos seleccionar varias
+
+                                       caras.
+
+
+
+
+
+
+
+                                                Seleccionar
+                                                 la opción
+                                                  “SCALE
+                                                   TOOL”                 Seleccionar una cara
+                                                                         del objeto, se puede
+                                                                         dimensionar la cara a
+                                                                           nuestro gusto y
+                                                                          después estirar el
+                                                                          centro para darle
+
+                                                                             volumen.
+
+
+
+
+
+                 9]]></page><page Index="12"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+                                    2.2. ACOMODANDO LAS PESTAÑAS EN LA INTERFAZ
+
+
+
+
+
+
+
+
+
+                                                                                            Hacer clic en las
+
+                                                                                             pestañas, las
+
+                                                                                             arrastramos y
+
+                                                                                        acomodando a nuestra
+                                                                                              comodidad.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                            10]]></page><page Index="13"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                                 DE INGENIERIA DE METODOS
+
+
+
+                                         2.3. EXPORTAR MODELOS DESDE SKETCH UP
+
+
+
+                                         Abrir programa
+
+                                           “SKETCH UP”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 11]]></page><page Index="14"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+                                                                      Dibujar el objeto que se quiera
+                                                                    utilizando las herramientas que se
+
+                                                                                tienen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                    En este caso se utilizó uno de los
+                                                                                    componentes que se tiene en el
+                                                                                          mismo Sketch Up.
+
+                                                                                                                                            12]]></page><page Index="15"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+                                         1
+
+
+
+
+
+
+
+                                          2                                                                                                3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Elegimos el tipo de
+
+                                           archivo como
+                                          (*.obj) ó (*.fbx)
+
+                13]]></page><page Index="16"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+                                                                                                   En las opciones para
+                                                                                                  exportar deben estar
+
+                                                                                                 seleccionadas: exportar
+                                                                                               aristas y triangular todas las
+                                                                                                 caras; y clic en aceptar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                            14]]></page><page Index="17"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                       Abrir Unity y exportar el objeto que
+
+                                                                    diseñamos en Sketch Up a nuestros Assets.
+
+
+
+
+
+
+                 15]]></page><page Index="18"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                           16]]></page><page Index="19"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                                  DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+                                                                                                 Se puede ver la perspectiva del
+                                                                                               modelo que se tiene, haciendo clic
+                                                                                                         en los ejes x, y, z.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    17]]></page><page Index="20"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+                                  2.4. IMPORTAR PAQUETE DE ASSETS
+
+
+
+
+
+                                         Los Assets son elementos que utilizamos en nuestro proyecto como ser: objetos
+                                          3D o escenarios.
+
+
+
+
+                                             Primero debemos descargar un paquete de Assets. Para el
+                                             ejemplo proporcionaremos este link de descarga de un
+
+                                             paquete de Assets: https://bit.ly/2V3NrX1 . Cabe recalcar que
+                                             se pueden descargar diferentes Assets en internet
+                                             dependiendo a nuestras necesidades.
+
+
+                                           Hay 3 formas de importar un paquete de Assets.
+
+              1.
+              s
+              el
+
+              e   Arrastrando el archivo
+                 c  directamente al espacio
+              ci  de Assets señalado.
+
+              o
+                 n
+              a
+
+              n
+                 d
+              o
+                                                                                                                                           18
+              e
+              n
+              “]]></page><page Index="21"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+                                                                   2.
+
+                                                                                             Hacer doble clic
+                                                                                       directamente en el archivo
+
+
+
+
+
+
+
+                                                                                                                                         3.
+
+
+
+
+                                                                                                             Seleccionando  en  “Assets”,
+                                                                                                             después en “Import Package”
+
+                                                                                                             y en “Custom Package”.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  19]]></page><page Index="22"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+                                          Seleccionamos el
+                                        paquete de Assets y
+
+                                        presionamos “Abrir”.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                              Para importarla
+                                                                          simplemente hacemos
+
+                                                                             clic en “Import”.
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                           20]]></page><page Index="23"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+                                                              Una vez que se haya
+
+                                                              importado el paquete,
+                                                              podremos ver el contenido
+                                                              en el índice que se muestra
+
+                                                              en la imagen, y seleccionar
+                                                              el elemento que se desee.
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                     Para añadir un
+                                                                                                     elemento al escenario,
+                                                                                                     seleccionamos en el
+
+                                                                                                     elemento y hacemos
+                                                                                                     doble clic.
+
+
+
+
+
+
+
+
+
+
+
+                  21]]></page><page Index="24"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                   Finalmente se abra añadido el elemento al
+                                                   escenario, para poder ver el escenario con
+                                                   vista de 360º hacemos clic derecho en el
+
+                                                   mouse y nos desplazamos para tener una
+                                                   vista más completa.
+
+
+                                                                                                                                            22]]></page><page Index="25"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+                                       2.5. AÑADIR OBJETO A LA ESCENA
+
+
+
+                                        1.
+
+
+                                  Carpeta de Assets a
+                                        vehículos.
+
+
+
+                                       2.
+
+
+
+                                  Seleccionar uno de ellos
+                                    y arrastrar a escena.
+
+
+
+
+                                         3.
+
+
+                                      El objeto esta en el
+
+                                    sistema 3D, en los ejes
+                                             X,Y, Z.
+
+
+
+
+
+
+
+                23]]></page><page Index="26"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+                                                                                              Si  se  quiere  que  el  objeto
+                                                                                              ocupe la posición origen del
+
+                                                                                              eje de coordenadas la mejor
+                                                                                              opción        es      arrastrarla
+                                                                                              directamente a la jerarquía.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  Desplazarnos por la escena
+                sujetando el botón derecho del
+
+              ratón, arrastrándolo de esta forma
+              rota sobre la posición en la que nos
+
+              encontramos y ver toda la escena
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                           24]]></page><page Index="27"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+                                      Combinar esta pulsación del derecho con las teclas A
+
+                                      se mueve a la izquierda, con la D se mueve a la
+
+                                      izquierda.
+
+
+                                                               Combinando esta pulsación con las teclas W y con la S
+                                                                respectivamente me acercó y me alejo de la escena.
+
+
+
+                                                                                                Con las teclas Q o la E se puede subir y bajar.
+
+
+
+
+
+
+
+
+
+
+                                                                                                                      La tecla ALT pulsada y el lado
+
+                                                                                                                      izquierdo del ratón para rotar
+                                                                                                                      sobre el eje de coordenadas
+
+                                                                                                                      y también con la rueda del
+
+                                                                                                                      ratón si la dejamos pulsada se
+                                                                                                                      puede arrastrar la escena a
+
+                                                                                                                      un lado.
+
+
+
+
+
+
+
+
+
+                25]]></page><page Index="28"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+                                                                                            Para Deshacer: CONTROL + Z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 Se puede visualizar la
+                  escena desde uno
+                  de los ejes por
+                 ejemplo desde arriba
+                  pulsando en ´´y´´
+                 desde enfrente
+
+                 pulsando el ´´z´´ o
+                  desde el lateral
+                 pulsando ´´x´´.
+
+
+
+                                                                                                                                           26]]></page><page Index="29"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+                                          2.6. MODIFICAR LAYOUT
+
+
+
+
+
+
+                                            Se puede observar cómo modificar
+
+                                            la posición de la cámara y obtener                    1. Clic en “Main camera”
+                                            una pre visualización para ver
+
+                                            cómo va quedando.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                27]]></page><page Index="30"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+              Utilizando la
+
+              herramienta que se
+              tiene al lado izquierdo
+
+              que es la de rotación,
+
+              girando así sobre los
+              ejes hasta ajustarlo en
+
+              una posición centrada.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                            28]]></page><page Index="31"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+                                                                                                                     Se puede lanzar
+                                                                                                                     una simulación
+
+                                                                                                                     del juego
+                                                                                                                     dándole play y
+                                                                                                                     viendo cómo va
+
+                                                                                                                     quedando.
+
+
+
+
+
+
+
+
+
+
+
+
+                                  Durante la simulación se puede volver
+                                  a la escena, modificar algunos
+                                  parámetros u objetos, la posición e
+                                  incluso volver a la pestaña de juego y
+                                  ver cómo se ha modificado.
+
+
+
+
+
+
+
+
+
+
+                 29]]></page><page Index="32"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+                                                                             1. Layout
+                             Para reorganizar nuestro espacio de trabajo:
+
+
+
+
+                                                                                                    2. Default
+
+
+
+
+                                                                                                Por ejemplo, se puede
+                                                                                                arrastrar sujetando con el
+                                                                                                botón izquierdo del ratón
+                                                                                                este panel y sacarlo de
+
+                                                                                                aquí y colocarlo en
+                                                                                                cualquier otra posición.
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                  Se puede hacer lo mismo con el panel de
+                                                                  proyectos  arrastrándolo,  llevarlo  a  la
+
+                                                                  posición  que  me  interese  y  así  puedo  ir
+                                                                  organizando las diferentes vistas.
+
+                                                                                                                                            30]]></page><page Index="33"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                               DE INGENIERIA DE METODO
+
+
+
+
+                                                                                                                       Para     guardar
+                                                                                                                       Layout:  en  la
+
+                                                                                                                       esquina
+                                                                                                                       derecha,       la
+                                                                                                                       opción Layout y
+                                                                                                                       guardar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                          En  cualquier  momento  se
+                                          puede  volver  al  default  o
+
+                                          volver  al  layout  que  se
+
+                                          guardó,  haciendo  clic  en
+                                          layout.
+
+
+                  31]]></page><page Index="34"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+                              2.7. COPIAR OBJETOS
+
+
+
+
+
+
+
+               1. Escoger un elemento
+                 del paquete de Assets
+
+
+
+
+
+
+
+
+
+               2. Hacer clic y arrastrar
+                 hasta el escenario.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                           32]]></page><page Index="35"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+
+
+                                     En el índice de la parte izquierda
+                                     nos muestra que el objeto ha sido
+                                     añadido, y como vamos a copiar
+                                     el objeto varias veces, es mejor
+
+                                     arrastrar el nombre del elemento
+                                     hasta el final.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 33]]></page><page Index="36"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+               Se  puede  cambiar
+               el    nombre      del
+
+               elemento  haciendo
+
+               clic  derecho  del
+               mouse, en la opción
+
+               “Rename”.
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                      Para  copiar  el  elemento  podemos
+                                                                                      seleccionar el nombre del mismo, o
+
+                                                                                      seleccionar  el  elemento  en  el
+                                                                                      escenario y  presionamos  Ctrl  +  D. Y
+                                                                                      acomodamos arrastrando los ejes.
+
+
+
+                                                                                                                                            34]]></page><page Index="37"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+                                                  También  podemos  copiar varios elementos
+
+                                                  a la vez, seleccionando los nombres y con la
+
+
+                                                  tecla  Ctrl.  O  arrastrando  el  cursor  con  clic
+                                                  izquierdo, seleccionando los elementos en el
+                                                  escenario. Y nuevamente presionamos Ctrl +
+
+                                                  D  para  copiar.  De  esta  forma  podemos
+                                                  copiar  los  elementos  las  veces  que  se
+                                                  queramos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  35]]></page><page Index="38"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+                             2.8. SITUAR PERSONAJE EN LA ESCENA
+
+
+
+
+
+
+
+
+                 Una vez dentro de Unity podemos
+
+               elegir  cualquier  personaje  que
+
+               tengamos  o  también  podemos
+                 importarlos,  yendo  a  la  ventana
+               Asset  Story  y  descargando  los
+                 prototipos que nos ofrece el Unity,
+               en  este  caso  descargamos  el
+
+               prototipo 2.
+
+
+
+
+
+
+
+                                                                                       Elegimos el prototipo que tenemos y
+
+                                                                                       para  empezar  a  incorporar  algunos
+                                                                                       personajes de distintos elementos a
+                                                                                       nuestra    escena    previamente
+
+                                                                                       debemos reposicionar la escena para
+                                                                                       verla bien.
+
+
+
+
+                                                                                                                                            36]]></page><page Index="39"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+                                                                                                              Nos  vamos  al  panel  de
+
+                                                                                                              proyectos a la carpeta librería
+                                                                                                              del  curso  y  aquí  tenemos
+                                                                                                              diferentes  tipos  de  materiales
+
+                                                                                                              que  podemos  poner  en  la
+                                                                                                              escena.
+
+
+
+
+
+
+
+
+
+
+                                        Podemos  ir  viendo
+                                        los  personajes  que
+
+                                        tenemos      abriendo
+                                        cada  carpeta  que
+
+                                        se tiene en la librería,
+                                        que  está  dentro  de
+                                        nuestros assets.
+
+
+                 37]]></page><page Index="40"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+                          Elegimos  un  personaje,
+                          lo            arrastramos
+
+                          directamente       a    la
+                          jerarquía y de esa forma
+                          nos aseguramos de que
+                          la posición en la que lo
+                          coloca  es  en  el  origen
+
+                          de coordenadas.
+
+
+
+
+
+
+
+
+
+
+                                                                             Iremos     añadiendo       los   distintos
+                                                                             personajes  y  los  posicionamos  en  un
+                                                                             mejor  ángulo;  si  hay  algún  error  y
+
+                                                                             queremos  regresar  a  la  posición
+                                                                             anterior pulsamos control + z.
+
+
+
+
+
+
+                                                                                                                                           38]]></page><page Index="41"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+                                         2.9. ARRAYS
+
+
+
+                                                                                                              Crear un objeto vacío, una jerarquía
+
+
+
+                                                                                                               Haciendo clic derecho del mouse y
+
+                                                                                                                 seleccionando “Create Empty”
+
+                                                                                                                     Haciendo clic derecho del mouse y
+                                                                                                                      seleccionando “Create Empty”
+
+
+                                                                                                               La que vamos a llamar “Generador”
+
+
+
+
+                                                                                                                El objeto creado se mostrara en la
+
+                                                                                                                    escena de forma invisible.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 39]]></page><page Index="42"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+                                                       1. Seleccionar
+
+                                                          “create”
+
+                  Crear un nuevo
+
+                      “Script”                          2. C# Script
+
+                   Haciendo clic
+                 derecho del mouse
+                 en la pestana de
+
+                       Projet.
+
+
+
+
+
+
+
+
+                                         A este Script le llamamos
+                                         también "Generador" ya
+                                         que lo vamos a asociar al
+
+                                         nuevo objeto que se
+                                         había creado
+                                         anteriormente.
+
+
+
+
+
+
+
+                                                                                                                                           40]]></page><page Index="43"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+                                                                                                        Seleccionamos el
+
+                                                                                                           objeto vacío
+                                                                                                          "Generador" y
+                                                                                                       después arrastramos
+
+                                                                                                       el Script "Generador"
+                                                                                                         hacia la pestaña
+                                                                                                             Inspector.
+
+
+
+
+
+
+                                      1. Hacer doble clic en el Script, para
+                                              abrir en Visual Studio.
+
+
+                                       2. Escribir el código “Public Game
+
+                                                      Objet”.
+
+
+
+                                    3. Declaramos  una lista de elementos del
+                                    mismo  tipo  denominada  Array,  para
+                                    hacer  esto  en  C  Sharp  escribimos
+
+                                    corchetes “[ ]”. Entonces, una vez hecho
+                                    esto guardamos los cambios y volvemos a
+                41                  Unity.]]></page><page Index="44"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+                                                                                                            2. nos muestra la
+                                                                                                            variable de tipo
+
+             1. Hacer clic en                                                                                  Array que
+              “Generador”,                                                                                 habíamos creado
+
+             que se creó en                                                                               en el Script, en este
+                 la pestaña                                                                                 caso “Animales
+                Hierarchy
+                                                                                                                Prefabs”.
+
+
+
+
+
+
+
+
+
+                                                                                                Hacemos clic en
+
+                                                                                                “animales prefabs”, en la
+                                                                                                parte derecha, nos dará
+                                                                                                la opción de poner el
+
+                                                                                                número de elementos
+                                                                                                que queremos poner en
+                                                                                                esta variable.
+
+
+
+
+
+                                                                                                                                           42]]></page><page Index="45"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                             Arrastramos los elementos desde
+                                                                                                             la carpeta de Assets, arrastramos
+                                                                                                             cada uno a cada elemento.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 43]]></page><page Index="46"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+                                 2.10. ACCESO A  ARRAYS
+
+
+
+
+
+
+
+
+
+
+
+
+
+             Para    la   generación
+
+             automática de nuestros
+
+             personajes     haciendo
+             que      se     generen
+
+             cuando pulse una tecla
+
+
+
+
+
+
+                                                                       Ir al código de la visual studio y
+                                                                       vamos a añadir la funcionalidad
+                                                                       necesaria
+
+
+
+
+
+                                                                                                                                            44]]></page><page Index="47"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                           En el script del generador vamos a añadir la detección de pulsación
+
+                                           de una tecla a través del control de entrada realizando el siguiente
+                                           código, lo que haremos es controlar que la tecla que se pulsa, por
+                                           ejemplo la tecla A, vamos a generar un personaje, así que recurrimos
+                                           de nuevo el método instancia al que tenemos que indicarle cuál es
+
+                                           el objeto en el que queremos hacer copia en qué posición queremos
+                                           que se genere, que se cree esa instancia y qué rotación queremos
+                                           que tenga respecto al objeto original del cual hacemos copias.
+
+
+
+
+                  45]]></page><page Index="48"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+               Vamos a indicarle aquí el nombre
+
+               de la variable, como queremos
+
+               hacer referencia a uno de los
+               animales que hay guardados en
+
+               la raíz tenemos que agregar [.],
+                 para la posición que ocupara el
+               personaje que queremos generar
+
+               tenemos que hacerlo con un
+                 número entero y para indicar una
+               posición se debe crear un nuevo
+
+               vector 3 para darle una posición,
+                 también a cuál de nuestros
+               animales queremos hacer
+
+               referencia.
+
+
+
+
+
+                                                                                                       Guardar los
+                                                                                                     Cambios que se
+
+                                                                                                            hizo
+
+
+
+
+
+
+
+                                                                                                                                           46]]></page><page Index="49"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+                                                                                                                          Clic en play
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                        También se debe pulsar
+                                                                                                                        la tecla A que
+                                                                                                                        programamos para que
+                                                                                                                        generen los personajes
+
+                                                                                                                        que programamos.
+
+
+
+
+
+
+                 47]]></page><page Index="50"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+                                 2.11. REPETIR FONDO
+
+
+
+
+
+
+
+                                                             1. Para hacer que el fondo se
+                                                             repita continuamente, primero
+                                                             acomodamos el fondo que
+
+                                                             hayamos elegido en el final del
+                                                             escenario del eje X, manejando
+                                                             los ejes de coordenadas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                            48]]></page><page Index="51"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                     2.  Creamos  un  Script  y  le
+
+                                                                                                                     llamamos “Repetir fondo”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                49]]></page><page Index="52"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+                                                                                           3. Cuando abrimos el Script
+
+                                                                                           en Visual Studio, escribimos
+                                                                                           lo siguiente, para crear una
+                                                                                           variable privada:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    4. Volvemos a Unity y arrastramos el script al elemento de fondo. Y cada
+
+                                    vez que hagamos PLAY, el fondo se repetirá de manera continua.
+
+
+
+
+
+
+                                                                                                                                           50]]></page><page Index="53"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+                                         2.12. REPETIR FONDO CON PRESICION
+
+
+
+
+
+
+                                                                                                                          1.        Añadir         un
+                                                                                                                          componente             tipo
+                                                                                                                          Colider.
+
+
+
+                                                                                                                           2.  Hacer  clic  en  add
+                                                                                                                           Component.
+
+
+
+
+
+                                                                                                                              Nos    va    a   permitir
+                                                                                                                              conocer  cuál  es  el
+                                                                                                                              tamaño en el eje x de
+                                                                                                                              nuestro  objeto,  por  lo
+
+                                                                                                                              cual  desde  el  script
+                                                                                                                              que  tenemos en visual
+                                                                                                                              studio         debemos
+                                                                                                                              configurarlo  para  que
+
+                                                                                                                              cuando  llegue  a  la
+
+                                                                                                                              mitad  del  ancho  este
+                                                                                                                              reinicie su posición.
+
+
+
+                51]]></page><page Index="54"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+                                                                         Luego colocamos ancho repetición get
+
+                  Crear  una  variable  que  almacene                    componente, indicando el componente que
+                 esa posición ese ancho de repetición                    queremos, también agregaremos dentro de ésta
+                  la  mitad  de  la  anchura  del  fondo,                la propiedad size y en el campo donde daba el
+
+                  también     debemos       crear    una                 tamaño en el eje ´´x´´ vamos a dividirlo entre dos,
+                 variable privada la cual llamaremos                     de esta manera cuando el fondo alcance la
+                  ancho     repetición    y   vamos     a                mitad de su ancho en desplazamiento va a
+                  inicializarla.                                         repetirse.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                             52]]></page><page Index="55"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+                                                                                                                     Para    comprobar       se
+                                                                                                                     debe      guardar      los
+                                                                                                                     cambios realizados
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                         Entramos  a  Unity,  damos
+
+                                         clic en play para entrar en
+                                         modo juego y comprobar
+                                         si se ve algun salto
+
+
+
+
+
+
+                 53]]></page><page Index="56"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+                                    2.14. COLOCADO Y PROGRAMACIÓN DE BOTONES
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                         1. Hacemos clic en PLAY y
+                                                                                         ya estará listo nuestro botón
+                                                                                         interactivo.
+
+
+
+
+
+
+                 2. Crear un canva haciendo
+                 clic derecho en la ventana
+                 hierarchy.
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                           54]]></page><page Index="57"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+                                                                                                                               Dentro del Canva
+                                                                                                                           debemos crear un botón,
+                                                                                                                           esto se consigue yendo a
+
+                                                                                                                                    UI, Button
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      Ahora  en  la  ventana
+                                      Project,  en  la  carpeta
+                                      Assets debemos crear un
+                                      script    en     el    cual
+
+                                      programaremos            las
+                                      funciones  que  queremos
+
+                                      que realice el Botón
+
+
+
+                55]]></page><page Index="58"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                                DE INGENIERIA DE METOD
+
+
+
+
+
+
+
+
+
+
+                                                             Abrimos  el  Script  y
+
+                                                             configuramos        las
+                                                             funciones    que    se
+                                                             requiera,   en    este
+                                                             caso  se  aplicaremos
+
+                                                             la función mostrar.
+
+
+
+
+
+
+
+
+
+
+                                     Este  script  debemos
+
+                                     integrarlo    en     el
+                                     canvas  button  y  así
+                                     adopte               la
+
+                                     funcionalidad  de  la
+                                     programación.
+
+
+                                                                                                                                            56]]></page><page Index="59"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+                                                                                                             En On Clic ( ), debemos agregar
+                                                                                                             una nueva lista haciendo clic en
+                                                                                                             ´´+´´  y  hacer  clic  en  Mostrar
+
+                                                                                                             Objeto ( ).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                      Dentro    del    Button
+                                                      podemos  modificar  el
+
+                                                      texto,  y  así  lograr  que
+                                                      el  botón  agregado
+                                                      tenga  o  no  un  texto,
+
+                                                      en este caso tendrá el
+                                                      texto Mostrar.
+
+
+                 57]]></page><page Index="60"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+
+
+                                                                     Hacer  clic  en  play,  y
+                                                                    observaremos  que  al
+
+                                                                    dar un clic en el botón
+                                                                    Mostrar,     el    objeto
+                                                                    desaparece  y  dando
+
+                                                                    otro clic el mismo objeto
+                                                                    vuelve a aparecer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                            58]]></page><page Index="61"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+                                           2.14. AÑADIR O MOSTRAR TEXTO AL HACER CLIC EN UN BOTON
+
+
+
+
+
+
+
+
+
+                                                                                                                    Habilitamos la vista 2D.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                      2.
+
+                                       2. Hacer clic  derecho en la jerarquía y se elige la
+                                       opción “UI”, después la opción “Button” para crear
+                                       el botón.
+
+
+                                                                                                                                            1.
+
+
+                                                      Para agregar los componentes de la interfaz de usuario
+
+
+                59]]></page><page Index="62"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+                82
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+                                                                                        3. Agregamos un “Panel” y dentro de
+                                                                                        este agregamos un texto.
+                                                                                        Posteriormente acomodamos los
+                                                                                        elementos y modificamos sus
+                                                                                        características a como se requiera.
+
+
+
+
+
+
+                     Ahora debemos hacer clic en el
+                     pequeño check de panel de la
+
+                     pestaña Inspector, ya que queremos
+                     que el panel aparezca cuando
+                     hagamos clic en el botón.
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                           60]]></page><page Index="63"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+                                                                                                     Dentro de esta un código Script al
+
+                                                                                                     que llamaremos por ejemplo
+                                        Para   programar      el   botón,    nos                     “abridordepanel” (Se debe escribir
+                                        creamos  una  carpeta  de  Script  en                        sin espacios). Y le hacemos doble
+
+                                                                                                     clic para abrir en Visual Studio.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 61]]></page><page Index="64"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+                             Para programar escribimos el siguiente
+                             código.
+
+
+
+
+
+                                                                                    Así se mostrara el código inicialmente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                  Así se muestra el código programado.
+
+
+
+
+
+
+
+                                                                                                                                            62]]></page><page Index="65"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                           Volvemos a Unity. Hacer clic en Button
+                                                                                                           (en la pestaña Jerarquia) y arrastramos
+                                                                                                           el Script del “AbridorDePanel” hasta la
+
+                                                                                                           pestaña de Button.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                63]]></page><page Index="66"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+                                                                                      Hacemos clic en Panel (de la pestaña
+                                                                                      Jerarquia) y arrastramos hasta la sub-
+
+                                                                                      elemento del Panel de la pestaña de
+                                                                                      Button.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Hacemos clic en
+
+                PLAY y ya estará
+                 listo     nuestro
+                botón
+
+                interactivo.
+
+
+                                                                                                                                            64]]></page><page Index="67"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+                                            2.15. DESAPARECER TEXTO HACIENDO CLIC EN EL BOTON
+
+
+
+
+
+                                                                                                     1.  Una  vez  realizado  el
+                                                                                                     botón  y  programado  el
+                                                                                                     panel     con    los   pasos
+
+                                                                                                     anteriores,            ahora
+                                                                                                     programamos  el  siguiente
+                                                                                                     código  para  que  el  texto
+
+                                                                                                     desaparezca.
+                                                                                                                             ASI   DEJAMOS       EL
+                                                                                                                             CODIGO       EN     EL
+                                                                                                                             ANTERIOR VIDEO
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     ASI          QUEDA
+                                                     DESPUES     DE    LA
+                                                     PROGRAMACION
+
+
+                65]]></page><page Index="68"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+
+                                                                                     2.  Guardamos  el
+                                                                                     código y nos vamos
+                                                                                     a Unity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                      2.  Ahora  hacemos
+                                                                                      click  en  PLAY  y  el
+                                                                                      botón  que  habíamos
+
+                                                                                      generado  ahora  es
+                                                                                      capaz  de  mostrar  y
+                                                                                      desaparecer el texto.
+
+
+                                                                                                                                            66]]></page><page Index="69"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+                                           2.16. GUARDAR PROYECTO Y RENDERIZADO
+
+
+
+
+
+
+                                          1.- En unity se puede crear
+                                          objetos que emitan luz con
+                                          la ayuda del renderizado,
+
+
+                                          para  lo     cual   primero
+                                          debemos       preparar     la
+                                          escena
+
+
+
+
+
+
+
+
+
+
+                                         Dentro      de      creation,
+                                         directional  light  dar  click
+                                         en  light  para  que  la  luz
+
+                                         desaparezca.
+
+
+
+
+
+
+                 67]]></page><page Index="70"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                    2.- también se puede crear
+                                                                                                   distintos objetos en 3D yendo
+                                                                                                       a la ventana creation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                            68]]></page><page Index="71"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+                                                                            3.-  Para  crear  un  material
+                                                                           que emita luz si crearemos
+
+                                                                           dentro     de    assets    un
+                                                                           material llamado emisión
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               69]]></page><page Index="72"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+                                                                                                   4.-  si  seleccionamos  el
+
+                                                                                                   material,  dentro  de  los
+                                                                                                   parámetros      se    puede
+                                                                                                   encontrar    una     sección
+
+                                                                                                   llamada     emisión,    para
+                                                                                                   poder           configurarla
+                                                                                                   debemos  seleccionar  esta
+                                                                                                   casilla  que  está  a  un lado
+                                                                                                   de su nombre, (en misión se
+
+                                                                                                   controla  el  color  en  la
+                                                                                                   intensidad de la luz emitida
+                                                                                                   desde  la  superficie  del
+
+                                                                                                   objeto    que     tiene    el
+                                                                                                   material si se le agrega este
+                                                                                                   material a un objeto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                           70]]></page><page Index="73"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+                                                                                                                   5.- En el recuadro de color
+                                                                                                                   podemos seleccionar el color del
+
+                                                                                                                   material, ósea la luz que emitirá y
+                                                                                                                   cómo se verá; en la barra debajo
+
+                                                                                                                   que dice intensidad podemos
+                                                                                                                   asignar la intensidad con la que
+                                                                                                                   brillará
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 6.-   Una     vez     configurado
+                                 debemos asignarlo al objeto en
+                                 este  caso  la  esfera,  para  que
+                                 adopte los efectos renderizados,
+                                 de igual manera se puede crear
+                                 otro material para los cubos.
+
+
+
+
+
+
+                 71]]></page><page Index="74"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     7.  En el parámetro emisión se tiene un ajuste de iluminación global que le permite especificar
+                     cómo la luz  aparente  emitida  desde  el material  afectará la  iluminación  contextual  de otros
+                     objetos cercanos ósea cómo interactuara la luz de nuestro objeto con los otros objetos de la
+
+
+                     escena, dentro se puede ver la opción real time que nos indica que se añadirán los efectos de
+                     iluminación global en tiempo real por lo que la iluminación de objetos cercanos incluso objetos
+                     en movimiento se afectará por la luz emitida de nuestro objeto; en la opción light maps estáticos
+                     los objetos marcados como estáticos estarán iluminados por nuestro material pero los objetos
+                     dinámicos que no estén marcados como estáticos no se verán afectados.
+
+
+
+                                                                                                                                           72]]></page><page Index="75"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            8.- en la esfera en los renderer´s en el parámetro
+
+                                            elemento debemos asignar el material emisión para que
+                                            dicha esfera ilumine a los otros objetos.
+
+
+
+
+
+
+
+                 73]]></page><page Index="76"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+                                  9.- Hacemos click en la esfera y en la ventana
+                                  inspector  debemos  ir  a  emisión,  color,
+
+                                  intensidad; y podemos verificar que la esfera
+                                  logra iluminar a los demás objetos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                            74]]></page><page Index="77"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+                                                                       10.- Para guardar el proyecto debemos
+                                                                       ir a File y hacer click en Save Proyect,
+
+                                                                       (aunque  cabe  mencionar  que  los
+                                                                       proyectos    ya    tienen    su   propio
+                                                                       autoguardado).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 75]]></page><page Index="78"><![CDATA[]]></page></pages></Search>
